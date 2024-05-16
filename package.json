@@ -1,5 +1,5 @@
 {
-  "type": "module",
+  "type": "commonjs",
   "name": "leetcode-parse",
   "version": "1.0.0",
   "description": "",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
+    "pg-pool": "^3.6.2",
     "puppeteer": "^22.8.2"
   }
 }
